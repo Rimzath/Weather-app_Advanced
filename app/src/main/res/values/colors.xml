@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+
+
+    <!-- Button Colors -->
+    <color name="buttonColor">#00CCC5</color> <!-- Vibrant Purple -->
+    <color name="buttonBorder">#37E8BE</color> <!-- Soft Lavender -->
+</resources>

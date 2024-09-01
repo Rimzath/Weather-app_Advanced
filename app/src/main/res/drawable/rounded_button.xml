@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Rounded corners for the button -->
+    <corners android:radius="20dp"/>
+
+    <!-- New Button background color (e.g., vibrant blue) -->
+    <solid android:color="#2196F3"/> <!-- Change this to any color you like -->
+
+    <!-- Border stroke with specified color and width -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/buttonBorder"/> <!-- Keep or update the border color -->
+</shape>
