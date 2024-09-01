@@ -25,7 +25,7 @@
             android:name=".ForecasteActivity"
             android:exported="false" />
         <activity
-            android:name=".celcius_new"
+            android:name=".CelciusNew"
             android:exported="false" />
         <activity
             android:name=".Firstpage"

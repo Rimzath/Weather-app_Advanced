@@ -1,15 +1,11 @@
 package com.example.weatherapp;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -82,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
         celcius.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent=new Intent(getApplicationContext(), celcius_new.class);
+                Intent intent=new Intent(getApplicationContext(), CelciusNew.class);
                 startActivity(intent);
 
             }
